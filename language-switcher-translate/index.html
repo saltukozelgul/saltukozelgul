@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.3.1/flatly/bootstrap.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="translate.js"></script>
+<title>jQuery Translate.js Example</title>
+<script>
+var txt = {
+"en":{"hey":"Hello World"},
+"cn":{"hey":"你好世界"}
+};
+$(function(){
+$("span").translate({default_lang:"en", langs:"#langs", source: txt});
+});
+</script>
+<link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<style>
+  body { min-height: 100vh; color: #fff; background: linear-gradient(230deg, rgba(93, 93, 93, 0.03) 0%, rgba(93, 93, 93, 0.03) 50%,rgba(78, 78, 78, 0.03) 50%, rgba(78, 78, 78, 0.03) 100%),linear-gradient(107deg, rgba(55, 55, 55, 0.01) 0%, rgba(55, 55, 55, 0.01) 50%,rgba(170, 170, 170, 0.01) 50%, rgba(170, 170, 170, 0.01) 100%),linear-gradient(278deg, rgba(16, 16, 16, 0.03) 0%, rgba(16, 16, 16, 0.03) 50%,rgba(24, 24, 24, 0.03) 50%, rgba(24, 24, 24, 0.03) 100%),linear-gradient(205deg, rgba(116, 116, 116, 0.03) 0%, rgba(116, 116, 116, 0.03) 50%,rgba(0, 0, 0, 0.03) 50%, rgba(0, 0, 0, 0.03) 100%),linear-gradient(150deg, rgba(5, 5, 5, 0.03) 0%, rgba(5, 5, 5, 0.03) 50%,rgba(80, 80, 80, 0.03) 50%, rgba(80, 80, 80, 0.03) 100%),linear-gradient(198deg, rgba(231, 231, 231, 0.03) 0%, rgba(231, 231, 231, 0.03) 50%,rgba(26, 26, 26, 0.03) 50%, rgba(26, 26, 26, 0.03) 100%),linear-gradient(278deg, rgba(89, 89, 89, 0.03) 0%, rgba(89, 89, 89, 0.03) 50%,rgba(26, 26, 26, 0.03) 50%, rgba(26, 26, 26, 0.03) 100%),linear-gradient(217deg, rgba(28, 28, 28, 0.03) 0%, rgba(28, 28, 28, 0.03) 50%,rgba(202, 202, 202, 0.03) 50%, rgba(202, 202, 202, 0.03) 100%),linear-gradient(129deg, rgba(23, 23, 23, 0.03) 0%, rgba(23, 23, 23, 0.03) 50%,rgba(244, 244, 244, 0.03) 50%, rgba(244, 244, 244, 0.03) 100%),linear-gradient(90deg, rgb(1, 64, 149),rgb(198, 5, 91)); }
+  .container { margin: 150px auto; max-width: 640px; }
+  </style>
+</head>
+<body><div id="jquery-script-menu">
+<div class="jquery-script-center">
+<ul>
+<li><a href="https://www.jqueryscript.net/text/language-switcher-translate.html">Download This Plugin</a></li>
+<li><a href="https://www.jqueryscript.net/">Back To jQueryScript.Net</a></li>
+</ul>
+<div class="jquery-script-ads"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="jquery-script-clear"></div>
+</div>
+</div>
+  <div class="container">
+    <h1>jQuery Translate.js Example</h1>
+<h3><span data-trans-hey>Hello World</span></h3>
+<!--<div id="langs">
+<a href="#" id="en">English</a>
+<a href="#" id="cn">简体中文</a>
+</div>-->
+<select id="langs" class="form-control mt-5">
+<option value="en">English</option>
+<option value="cn">简体中文</option>
+</select>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
