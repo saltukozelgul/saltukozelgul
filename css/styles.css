@@ -9798,7 +9798,7 @@ a.text-primary:hover {
 }
 
 .text-secondary {
-	color: #2c3e50!important
+	color: #27496d!important
 }
 
 a.text-secondary:focus,
@@ -10010,9 +10010,9 @@ a.text-dark:hover {
 	width: 100%;
 	max-width: 7rem;
 	height: .25rem;
-	background-color: #2c3e50;
+	background-color: #27496d;
 	border-radius: 1rem;
-	border-color: #2c3e50!important
+	border-color: #27496d!important
 }
 
 .divider-custom .divider-custom-line:first-child {
@@ -10024,7 +10024,7 @@ a.text-dark:hover {
 }
 
 .divider-custom .divider-custom-icon {
-	color: #2c3e50!important;
+	color: #27496d!important;
 	font-size: 2rem
 }
 
