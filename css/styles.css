@@ -10318,3 +10318,8 @@ form .row:first-child .floating-label-form-group {
 .btn-social {
 	margin-bottom: .5rem
 }
+
+.img-in-port {
+  max-width: 25%;
+  max-height: 25%;
+}
