@@ -10011,16 +10011,16 @@ a.text-dark:hover {
 	max-width: 7rem;
 	height: .25rem;
 	background-color: #27496d;
-	border-radius: 1rem;
+	border-radius: 0rem;
 	border-color: #27496d!important
 }
 
 .divider-custom .divider-custom-line:first-child {
-	margin-right: 1rem
+	margin-right: 0rem
 }
 
 .divider-custom .divider-custom-line:last-child {
-	margin-left: 1rem
+	margin-left: 0rem
 }
 
 .divider-custom .divider-custom-icon {
@@ -10322,4 +10322,9 @@ form .row:first-child .floating-label-form-group {
 .img-in-port {
   max-width: 25%;
   max-height: 25%;
+}
+
+.img-in-port-2 {
+  max-width: 100%;
+  max-height: 100%;
 }
