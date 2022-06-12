@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saltuk. <br> <a href="http://saltukozelgul.herokuapp.com/">Learn more.</a></h1>
+<h1 align="center">Hi 👋, I'm Saltuk. <br> <a href="saltukozelgul.github.io">Learn more.</a></h1>
 
 
 
