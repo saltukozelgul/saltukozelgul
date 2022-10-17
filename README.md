@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Saltuk. <br> <a href="http://saltukozelgul.github.io">Learn more.</a></h1>
+<h1 align="center">Hi 👋, I'm Saltuk. <br> <a href="http://saltukozelgul.com">Learn more.</a></h1>
 
 
 
 
-<p align="center">I'm currently learning OpenCV, Computer Vision and AI. </p>
+<p align="center">Full Stack Developer - Content Creator <br>I'm currently learning ML, Computer Vision and AI. <br> I'm developing full stack web apps with Node.JS/Django</p>
 
 <h3 align="center"> Follow Me On: </h3>
   
