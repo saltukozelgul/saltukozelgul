@@ -3,7 +3,7 @@
 
 
 
-<p align="center">Full Stack Developer - Content Creator <br>I'm currently learning ML, Computer Vision and AI. <br> I'm developing full stack web apps with Node.JS/Django</p>
+<p align="center">Full Stack Developer - Content Creator <br>I'm currently learning ML, Computer Vision and AI. <br> I'm developing full stack web apps with Node.JS/Django & React</p>
 
 <h3 align="center"> Follow Me On: </h3>
   
