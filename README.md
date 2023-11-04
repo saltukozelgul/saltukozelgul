@@ -3,7 +3,7 @@
 
 
 
-<p align="center">Full Stack Developer - Content Creator <br>I'm currently learning Mobile Development.</p>
+<p align="center">Mobile Developer - Content Creator <br>I'm currently learning ML & AI.</p>
 
 <h3 align="center"> Follow Me On: </h3>
   
