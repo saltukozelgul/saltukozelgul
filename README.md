@@ -3,7 +3,7 @@
 
 
 
-<p align="center">Mobile Developer - Content Creator <br>I'm currently learning ML & AI.</p>
+<p align="center">Sofware Developer - Content Creator <br>I'm currently learning Network.</p>
 
 <h3 align="center"> Follow Me On: </h3>
   
